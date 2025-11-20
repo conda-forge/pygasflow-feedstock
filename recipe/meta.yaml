@@ -28,6 +28,7 @@ requirements:
     - param
     - panel
     - colorcet
+    - pint
 
 test:
   imports:
